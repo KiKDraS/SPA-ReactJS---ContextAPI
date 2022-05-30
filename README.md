@@ -1,4 +1,4 @@
-# Aplicación SPA con Login ReactSJS
+# Aplicación SPA con Login ReactJS
 
 Esta aplicación es la resolución del ejercicio propuesto a los alumnos en la
 clase de ReactJS.
